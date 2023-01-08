@@ -1,0 +1,88 @@
+body{
+    text-align: center;
+
+}
+p{
+    font-size: 50px;
+    font-family:cursive
+}
+#titulo2{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: coral;
+}
+#Inicio{
+    background:linear-gradient(#F20CA2 0%, #FFF300 100%)
+}
+#Viajes{
+    background:linear-gradient(#6FE302 0%, #0090D8 100%);
+    padding-left: 100px;
+    padding-right: 100px;
+}
+#Tour{
+    background:linear-gradient(#A367EC 0%, #000000 100%);
+  color: white;  
+}
+#Mas_informacion{
+    background:linear-gradient(#4CF3C1 0%, #66512A 100%);
+    color: #146D58;
+}
+#Pinturas{
+    background: linear-gradient(#D3A166 0%, #9EB4DF 40%, #82B490 100%);
+}
+.Lista
+{
+    cursor: pointer;
+    z-index: 10;
+    list-style: none;
+    background-color: white;
+    /*right: 40%;*/
+    text-align: center;
+    padding: 50px;
+    width: 100%;
+    padding: 10px 30px 10px;
+    margin-top: 0px;
+    top: 0px;
+}
+a:hover{
+    color: rgb(187, 119, 30) !important;
+    text-decoration: underline;
+    font-size: 20px;
+}
+.Lista3{
+    padding: 10px;
+}
+a {
+    text-decoration: none;
+}
+#sobre{
+    font-size: 30px;
+    color: #D69507;
+}
+#telefono{
+    font-size: 30px;
+    color: #D69507;
+}
+#Contacto{
+    background: linear-gradient(#8b6104 0%, #000000 100%);
+    color: rgb(255, 255, 255);
+}
+.nav_bar{
+    color: rgb(224, 141, 141);
+}
+
+img {
+    width: 600px;
+}
+
+.viaje1{
+    border: 2px solid #000000;
+}
+
+.peliculas{
+    font-size: 20px;
+}
+
+#Ruby, #Navidad{
+    padding: 150px;
+}
